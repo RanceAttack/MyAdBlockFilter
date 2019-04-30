@@ -2,3 +2,5 @@
 blog.csdn.net##.pulllog-box
 v.qq.com##.ft_cell.ft_cell_vcoin
 v.qq.com##.ft_cell.ft_cell_feedback
+baidu.com###lg
+baidu.com##.s-p-top
