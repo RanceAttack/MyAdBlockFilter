@@ -65,3 +65,5 @@ read.qidian.com###j_guideBtn
 read.qidian.com##.guide-btn
 read.qidian.com###j_discussHref
 read.qidian.com##.admire.lang.j_admireBtn
+bimibimi.cc##marquee[style="margin-top:.5rem"]
+bimibimi.cc##a[style="color:#FA474B"]
