@@ -72,7 +72,6 @@ read.qidian.com##.admire.lang.j_admireBtn
 bimibimi.cc##marquee[style="margin-top:.5rem"]
 bimibimi.cc##a[style="color:#FA474B"]
 dingdiann.com##.hm-t-body
-douyu.com##.Act138312Bar-subView
 douyu.com##.Act138312Bar-mainView
 douyu.com##.ActRotation-list
 douyu.com##.Act125411-logo
