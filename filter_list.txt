@@ -90,3 +90,4 @@ huya.com###chatHostPic
 huya.com##.chat-host-pic
 ||bdxiguaimg.com
 ||bymh23.com
+||pajinse.top
