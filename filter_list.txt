@@ -88,3 +88,4 @@ huya.com###share-entrance
 huya.com##.share-entrance
 huya.com###chatHostPic
 huya.com##.chat-host-pic
+||bdxiguaimg.com
