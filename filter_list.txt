@@ -92,3 +92,4 @@ huya.com##.chat-host-pic
 ||bymh23.com
 ||pajinse.top
 ||ejnjapw.cn
+||qpic.cn
