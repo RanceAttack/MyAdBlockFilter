@@ -95,3 +95,4 @@ huya.com##.chat-host-pic
 ||qpic.cn
 ||aobopo.top
 ||yiotufp.cn
+||utfgxjj.cn^
