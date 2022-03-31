@@ -88,6 +88,7 @@ huya.com###share-entrance
 huya.com##.share-entrance
 huya.com###chatHostPic
 huya.com##.chat-host-pic
+
 ! guomanba.cc
 ||bdxiguaimg.com^
 ||bymh23.com^
@@ -100,3 +101,4 @@ huya.com##.chat-host-pic
 ||bvuuv.com^
 ||nby360.com^
 ||junwjwl.com^
+||btbtbt2022cccc.xyz^
