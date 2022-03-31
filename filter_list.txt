@@ -88,11 +88,15 @@ huya.com###share-entrance
 huya.com##.share-entrance
 huya.com###chatHostPic
 huya.com##.chat-host-pic
-||bdxiguaimg.com
-||bymh23.com
-||pajinse.top
-||ejnjapw.cn
-||qpic.cn
-||aobopo.top
-||yiotufp.cn
+! guomanba.cc
+||bdxiguaimg.com^
+||bymh23.com^
+||pajinse.top^
+||ejnjapw.cn^
+||qpic.cn^
+||aobopo.top^
+||yiotufp.cn^
 ||utfgxjj.cn^
+||bvuuv.com^
+||nby360.com^
+||junwjwl.com^
