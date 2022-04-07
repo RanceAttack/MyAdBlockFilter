@@ -102,3 +102,4 @@ huya.com##.chat-host-pic
 ||nby360.com^
 ||junwjwl.com^
 ||btbtbt2022cccc.xyz^
+||guomanba.cc^$script,third-party,domain=guomanba.cc
