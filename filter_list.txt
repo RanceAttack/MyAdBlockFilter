@@ -90,6 +90,7 @@ huya.com###chatHostPic
 huya.com##.chat-host-pic
 
 ! guomanba.cc
+||guomanba.cc^$script,thrid-party
 ||bdxiguaimg.com^
 ||bymh23.com^
 ||pajinse.top^
