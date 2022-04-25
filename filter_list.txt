@@ -104,3 +104,6 @@ huya.com##.chat-host-pic
 ||junwjwl.com^
 ||btbtbt2022cccc.xyz^
 ||guomanba.cc^$script[tag-content="xuanfu"]
+www.zhangxinxu.com/wordpress/wp-content/themes/default/script-min.js?v=20220213
+@@||www.ruanyifeng.com^$csp,domain=www.ruanyifeng.com
+eldenring.wiki.fextralife.com##.ad-sidebar.section-heading.section-heading-light.simulation-hero-heading
